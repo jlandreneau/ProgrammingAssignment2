@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## This file contains functions useful for calculating the
+## inverse of a matrix and cacheing its result
 
 ## creates a special vector which is a list which 
 ## points to functions that will be used to get,set the
