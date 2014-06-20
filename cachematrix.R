@@ -1,5 +1,7 @@
 ## This file contains functions useful for calculating the
 ## inverse of a matrix and cacheing its result
+## Based on sample code by Roger D. Peng, PhD, Jeff Leek, PhD, Brian Caffo, PhD
+## from the R Programming course
 
 ## creates a special vector which is a list which 
 ## points to functions that will be used to get,set the
